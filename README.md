@@ -1,2 +1,2 @@
 # Arduino
-Arduino based projects and sorce code
+Arduino based projects and source code
